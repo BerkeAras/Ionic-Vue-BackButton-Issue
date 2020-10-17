@@ -1,5 +1,5 @@
 {
-  "name": "VueTestApp",
+  "name": "myApp",
   "integrations": {
     "capacitor": {}
   },
